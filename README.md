@@ -45,7 +45,4 @@ To run the model for your own catchment the following steps have to be done:
 2) model calibration with " model _calibration.m"
 4) Run of the model with " model.m"
 
-% ... few lines to run the model
-name='section';                         % name of the input file
-model _calibration.m (name)                        % model calibration
-model (name,load('X_opt_ model.txt'),1)   % RUN model
+

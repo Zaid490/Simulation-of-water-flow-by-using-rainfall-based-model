@@ -7,7 +7,7 @@ The following files are distributed:
 
 1) MATLAB codes
 1.1) "model.m": model code
-1.2) "model _calibration.m": code for model calibration (requires optimization toolbox)
+1.2) "model _calibration.m": code for model calibration 
 
 2) Secondary file:
 2.1) "fixed_par.txt": contains
